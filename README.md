@@ -1,6 +1,6 @@
 # FastAPI
 
-A simple backend webapp with CRUD functionality using FastAPI.
+A simple todo backend app with CRUD functionality using FastAPI.
 
 
 
