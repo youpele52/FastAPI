@@ -1,4 +1,4 @@
-# FastAPI
+# Todo List
 
 A simple todo backend app with CRUD functionality using FastAPI.
 
